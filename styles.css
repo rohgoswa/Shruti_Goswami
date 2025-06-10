@@ -11,7 +11,7 @@ div {
 h1 {
   font-size: 5.625rem;
   font-family: 'Sacramento', cursive;
-  color: #0099cc;
+  color: #43C6DB;
   width: 50%;
   margin: 15px auto 10px auto ;
 }
@@ -47,7 +47,7 @@ p {
 .top-container {
   position: relative;
   padding-top: 100px;
-  background-color: #e6f9ff;
+  background-color: #F0FFFF;
 
 }
 
@@ -71,11 +71,11 @@ p {
 }
 
 .mountain {
-  width: 30%;
+  width: 25%;
 }
 .dude {
   border-radius: 100%;
-  width: 15%;
+  width: 12%;
 }
 
 .hacking {
